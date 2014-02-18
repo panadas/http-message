@@ -1,8 +1,8 @@
 <?php
-namespace Panadas\HttpMessageModule;
+namespace Panadas\HttpMessage;
 
-use Panadas\HttpMessageModule\DataStructure\Headers;
-use Panadas\HttpMessageModule\DataStructure\ResponseCookies;
+use Panadas\HttpMessage\DataStructure\Headers;
+use Panadas\HttpMessage\DataStructure\ResponseCookies;
 
 class JsonResponse extends Response
 {

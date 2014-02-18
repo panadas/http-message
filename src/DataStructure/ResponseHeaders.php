@@ -1,5 +1,5 @@
 <?php
-namespace Panadas\HttpMessageModule\DataStructure;
+namespace Panadas\HttpMessage\DataStructure;
 
 class ResponseHeaders extends AbstractHeaders
 {

@@ -1,7 +1,7 @@
 <?php
-namespace Panadas\HttpMessageModule\DataStructure;
+namespace Panadas\HttpMessage\DataStructure;
 
-use Panadas\DataStructureModule\Hash;
+use Panadas\DataStructure\Hash;
 use Panadas\Util\Php;
 
 abstract class AbstractHeaders extends Hash
