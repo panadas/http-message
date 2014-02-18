@@ -1,7 +1,7 @@
 <?php
-namespace Panadas\HttpMessage\DataStructure;
+namespace Panadas\HttpMessageModule\DataStructure;
 
-use Panadas\DataStructure\Hash;
+use Panadas\DataStructureModule\Hash;
 
 class DataParams extends Hash
 {

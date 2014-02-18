@@ -1,11 +1,11 @@
 <?php
-namespace Panadas\HttpMessage;
+namespace Panadas\HttpMessageModule;
 
-use Panadas\HttpMessage\DataStructure\DataParams;
-use Panadas\HttpMessage\DataStructure\QueryParams;
-use Panadas\HttpMessage\DataStructure\RequestCookies;
-use Panadas\HttpMessage\DataStructure\RequestHeaders;
-use Panadas\HttpMessage\DataStructure\ServerParams;
+use Panadas\HttpMessageModule\DataStructure\DataParams;
+use Panadas\HttpMessageModule\DataStructure\QueryParams;
+use Panadas\HttpMessageModule\DataStructure\RequestCookies;
+use Panadas\HttpMessageModule\DataStructure\RequestHeaders;
+use Panadas\HttpMessageModule\DataStructure\ServerParams;
 
 class Request
 {

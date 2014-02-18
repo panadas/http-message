@@ -1,8 +1,8 @@
 <?php
-namespace Panadas\HttpMessage\DataStructure;
+namespace Panadas\HttpMessageModule\DataStructure;
 
-use Panadas\DataStructure\Hash;
-use Panadas\HttpMessage\Cookie;
+use Panadas\DataStructureModule\Hash;
+use Panadas\HttpMessageModule\Cookie;
 
 class ResponseCookies extends Hash
 {

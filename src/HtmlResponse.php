@@ -1,8 +1,8 @@
 <?php
-namespace Panadas\HttpMessage;
+namespace Panadas\HttpMessageModule;
 
-use Panadas\HttpMessage\DataStructure\Headers;
-use Panadas\HttpMessage\DataStructure\ResponseCookies;
+use Panadas\HttpMessageModule\DataStructure\Headers;
+use Panadas\HttpMessageModule\DataStructure\ResponseCookies;
 
 class HtmlResponse extends Response
 {

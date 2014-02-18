@@ -1,5 +1,5 @@
 <?php
-namespace Panadas\HttpMessage;
+namespace Panadas\HttpMessageModule;
 
 class Cookie
 {
